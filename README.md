@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="WhatsApp" src=".github/logo.png" wwidth="10%">
+  <img alt="WhatsApp" src=".github/logo.png" >
   <br>
   WhatsApp
 </h1>
@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img alt="WhatsApp" src=".github/whatsapp.gif" width="10px">
+  <img alt="WhatsApp" src=".github/whatsapp.gif" width="30%">
 </p>
 
 ## :rocket: Tecnologias
