@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="WhatsApp" src=".github/logo.png" width="100%">
+  <img alt="WhatsApp" src=".github/logo.png" width="300px">
   <br>
   WhatsApp
 </h1>
