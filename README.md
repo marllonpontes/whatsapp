@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img alt="WhatsApp" src=".github/whatsapp.gif" width="30%">
+  <img alt="WhatsApp" src=".github/whatsapp.gif" width="40%">
 </p>
 
 ## :rocket: Tecnologias
